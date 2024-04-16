@@ -52,6 +52,10 @@ table {
   border-spacing: 0;
 }
 
+body {
+  font-family: inter;
+}
+
 .mobile-nav {
   display: -webkit-box;
   display: -ms-flexbox;
